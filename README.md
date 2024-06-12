@@ -1,7 +1,7 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="GitHub Banner" />
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="GitHub Banner" width="600" height="400"/>
 </p>
 
 <p align="center">
