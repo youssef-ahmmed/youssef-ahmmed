@@ -12,10 +12,10 @@
 <!-- ----------- BODY SECTION ------------ -->
 
 ## About
-- 👨‍🎓 I'm a computer engineering graduate at Helwan University, Egypt.
+- 👨‍🎓 I'm a computer engineering graduate from Helwan University, Egypt.
 - 💡 Interested in backend development, platform design and system architecture.
 - 🔍 Passionate about building low level systems and automated tools.
-- 🙏 Enjoy designing databases, solving problems and 
+- 🙏 Enjoy designing databases, solving problems and implement new solutions.
 - 🚀 Avid reader who loves immersing myself in books and always eager to learn something new.
 - 🥇 Aiming to make a significant impact on a global scale.
 
